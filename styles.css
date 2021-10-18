@@ -12,5 +12,5 @@ p    {
 }
 div.listat {
   border-style:dotted;
-  font-size: 12px;
+  border-width:2px;
 }
