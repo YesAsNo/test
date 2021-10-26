@@ -23,6 +23,7 @@ p    {
   border-width:2px;
 }
 ul {
+  background-color: white;
   list-style-type: none;
   margin: 0;
   padding: 0;
