@@ -35,7 +35,19 @@ ul {
 }
 li a {
   display: block;
-  background-color: #dddddd;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
 }
 .elain {
   width: 50%;
