@@ -4,21 +4,6 @@ body {
   margin: 35px;
   color: white
 }
-h1   {
-  color: #FA58AC;
-  align: center;
-  background-color: white;
-  border-radius: 25px;
-  font-size: 45px;
-  border: dotted;
-}
-p    {
-  color: pink;
-  background-color: white;
-  border-radius: 25px;
-  font-size: 20px;
-  padding: 35px;
-}
 .listat {
   border-style:dotted;
   border-width:2px;
