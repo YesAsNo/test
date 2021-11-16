@@ -14,7 +14,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 10;
   background-color: white;
   height: 100%;
 }
@@ -43,7 +43,7 @@ li a:hover:not(.active) {
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 45%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
