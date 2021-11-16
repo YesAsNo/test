@@ -1,15 +1,11 @@
 body {
   background-color: #F1F8E0;
   background-image: url("https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib");
-  margin: 35px;
   color: white
 }
 .listat {
   border-style:dotted;
   border-width:2px;
-}
-body {
-  margin: 5%;
 }
 nav {
   float: left;
@@ -18,11 +14,9 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 25%;
+  width: 200px;
   background-color: white;
-  position: fixed;
   height: 100%;
-  overflow: auto;
 }
 
 li a {
