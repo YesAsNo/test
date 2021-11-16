@@ -56,5 +56,5 @@ li a:hover:not(.active) {
   clear: both;
 }
 .otsikko {
-  padding: 5%;
+  margin: 5%;
   }
