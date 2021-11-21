@@ -33,7 +33,7 @@ li a {
 /* Change the link color on hover */
 li a:hover {
   background-color: #F5A9D0;
-  color: white;
+  color: black;
 }
 
 .elain {
