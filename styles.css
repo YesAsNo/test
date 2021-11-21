@@ -16,11 +16,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 10;
-  background-color: white;
-  height: 100%;
-  position: fixed;
-  overflow: auto;
+  width: 200px;
+  background-color: #f1f1f1;
 }
 
 li a {
@@ -30,15 +27,12 @@ li a {
   text-decoration: none;
 }
 
-li a.active {
-  background-color: #F781BE;
-  color: white;
-}
-
-li a:hover:not(.active) {
+/* Change the link color on hover */
+li a:hover {
   background-color: #555;
   color: white;
 }
+
 .elain {
   width: 50%;
   margin: 20px;
