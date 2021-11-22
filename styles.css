@@ -1,8 +1,7 @@
 body {
   background-color: #F1F8E0;
   background-image: url("https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib");
-  color: black
-  max-width: 700px;
+  color: black;
   margin:0 auto;
   padding: 10px;
   float: left;
