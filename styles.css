@@ -39,11 +39,11 @@ li a:hover {
   width: 35%;
   margin: 20px;
   background-color: red;
-}
+  
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 30%;
+  width: 31%;
   padding: 10px;
 }
 
@@ -53,6 +53,8 @@ li a:hover {
   display: table;
   clear: both;
 }
+
+
 .otsikko {
   text-align: center;
   }
