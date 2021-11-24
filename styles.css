@@ -45,6 +45,7 @@ li a:hover {
   float: left;
   width: 31%;
   padding: 10px;
+  height: 500px
 }
 
 /* Clear floats after the columns */
