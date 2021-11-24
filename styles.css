@@ -43,9 +43,9 @@ li a:hover {
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 30%;
+  width: 40%;
   padding: 10px;
-  height: 500px
+    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
